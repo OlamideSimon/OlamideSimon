@@ -1,3 +1,5 @@
+![Header](./OlamideSimon.png)
+
 - 👋 Hi, I’m Olamide Simon
 - 👀 I’m interested in Software Programming.
 - 🌱 I’m currently make use of Javascript, both backend and frontend.
