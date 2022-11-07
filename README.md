@@ -1,5 +1,5 @@
 <img src="./OlamideSimon.png" />
-<div style="display: flex; justify-center">
+<div style="display: flex; justify-items: center">
     <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
     </div>
