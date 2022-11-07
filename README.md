@@ -1,5 +1,22 @@
 ![Header](./OlamideSimon.png)
-
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+</div>
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+</div>
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+</div>
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+</div>
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+</div>
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+</div>
 - 👋 Hi, I’m Olamide Simon
 - 👀 I’m interested in Software Programming.
 - 🌱 I’m currently make use of Javascript, both backend and frontend.
