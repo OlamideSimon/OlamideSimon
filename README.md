@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-- 📫 How to reach me; [Mail](mailto:simonadepetoye@gmail.com) or [Phone](tel:+2348128981530)
+- 📫 How to reach me; [Mail](mailto:simonadepetoye@gmail.com) or <a href='tel:+2348128981530'>Phone</a>
 - ⚡️ Fun Fact: I ❤️ 🐺s && games.
 
 ### 🔗 Connect with me 
