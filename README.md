@@ -43,6 +43,10 @@
 &emsp;
 <a target="_blank" href=""><img src="https://img.shields.io/badge/OlamideSimon-12100E?style=for-the-badge&logo=Google-Chrome&logoColor=white"></img></a>
 
+<!-- <p> -->
+    [![Olamide's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OlamideSimon&langs_count=6&layout=compact&hide_border=true)](https://github.com/OlamideSimon/github-readme-stats)
+<!-- </p> -->
+
 <!-- <p style="padding-left: 10px;">
     <a href='https://www.linkedin.com/in/simon-adepetoye-13265b228' style="margin: 5px;">
         <img src="https://skillicons.dev/icons?i=linkedin" width='40' />
