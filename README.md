@@ -6,8 +6,8 @@
 </p>
 
 ### **This is where I drop the building blocks for my mansion 😂**
-🔭 &nbsp;I’m currently working on something cool.\
-🌱 &nbsp;I’m currently playing around with ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white).\
+🔭 &nbsp;I’m working on something cool at the moment.\
+🌱 &nbsp;Currently playing around with NestJs.\
 💬 &nbsp;You can ask me about anything related to React, javascript, typescript or nodeJs.\
 ⚡️ &nbsp;Fun Fact: I ❤️ 🐺s && games.
 
