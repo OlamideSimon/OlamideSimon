@@ -41,7 +41,7 @@
 &emsp;
 <a target="_blank" href="https://www.twitter.com/OlamideDev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<!-- <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=personal&logoColor=white"></img></a> -->
 
 <!-- <p style="padding-left: 10px;">
     <a href='https://www.linkedin.com/in/simon-adepetoye-13265b228' style="margin: 5px;">
