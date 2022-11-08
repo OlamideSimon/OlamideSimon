@@ -43,14 +43,7 @@
 &emsp;
 <a target="_blank" href=""><img src="https://img.shields.io/badge/OlamideSimon-12100E?style=for-the-badge&logo=Google-Chrome&logoColor=white"></img></a>
 
-<!-- <p> -->
-<!-- </p> -->
-
-<!-- <p style="padding-left: 10px;">
-    <a href='https://www.linkedin.com/in/simon-adepetoye-13265b228' style="margin: 5px;">
-        <img src="https://skillicons.dev/icons?i=linkedin" width='40' />
-    </a>
-    <a href='https://www.twitter.com/OlamideDev' style="margin: 5px;">
-        <img src='https://skillicons.dev/icons?i=twitter' width="40" />
-    </a>
-</p> -->
+<br />
+<p align="center">
+    <img src='https://github-readme-stats.vercel.app/api?username=OlamideSimon&hide=contribs,stars&show_icons=true&theme=dracula&hide_border=true' alt="Olamide's stats" />
+</p>
