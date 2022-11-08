@@ -6,12 +6,13 @@
 </p>
 
 ### **This is where I drop the building blocks for my mansion 😂**
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently playing around with ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white).
-- 💬 You can ask me about anything related to React, javascript, typescript or nodeJs.
-- ⚡️ Fun Fact: I ❤️ 🐺s && games.
+🔭 &nbsp;I’m currently working on something cool.\
+🌱 &nbsp;I’m currently playing around with ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white).\
+💬 &nbsp;You can ask me about anything related to React, javascript, typescript or nodeJs.\
+⚡️ &nbsp;Fun Fact: I ❤️ 🐺s && games.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+&nbsp;
 
 ### 🛠 &nbsp;Tech Stack
 
