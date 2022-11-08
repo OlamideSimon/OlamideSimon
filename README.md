@@ -1,7 +1,7 @@
 ![Header](./assets/OlamideSimon.png)
 
 ### **This is where I drop the building blocks for my mansion 😂**
-- 🔭 I’m currently working something cool.
+- 🔭 I’m currently working on something cool.
 - 🌱 I’m currently playing around with ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white).
 - 💬 You can ask me about anything related to 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
