@@ -44,6 +44,7 @@
 <a target="_blank" href=""><img src="https://img.shields.io/badge/OlamideSimon-12100E?style=for-the-badge&logo=Google-Chrome&logoColor=white"></img></a>
 
 <br />
+<br />
 <p align="center">
     <img src='https://github-readme-stats.vercel.app/api/top-langs?username=OlamideSimon&show_icons=true&bg_color=50,000428,004e92&title_color=ffffff&text_color=ffffff&layout=compact&langs_count=6&hide_border=true&hide=C&border_radius=40' alt="Olamide's stats" />
 </p>
