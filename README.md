@@ -45,5 +45,5 @@
 
 <br />
 <p align="center">
-    <img src='https://github-readme-stats.vercel.app/api?username=OlamideSimon&hide=contribs,stars&show_icons=true&theme=dracula&hide_border=true' alt="Olamide's stats" />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs?username=OlamideSimon&show_icons=true&theme=cobalt&layout=compact&langs_count=6&hide_border=true' alt="Olamide's stats" />
 </p>
