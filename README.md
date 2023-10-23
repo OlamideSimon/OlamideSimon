@@ -5,10 +5,10 @@
     <img src="https://komarev.com/ghpvc/?username=OlamideSimon&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-### **This is where I drop the building blocks for my mansion 😂**
-🔭 &nbsp;I’m working on something cool at the moment.\
-🌱 &nbsp;Currently playing around with NestJs.\
-💬 &nbsp;You can ask me about anything related to React, javascript, typescript or nodeJs.\
+### **This is where I drop the building blocks for my mansion**
+🔭 &nbsp; I’m working on something cool at the moment.\
+🌱 &nbsp; Currently playing around with NestJs.\
+💬 &nbsp; You can ask me about anything related to React, javascript, typescript, or nodeJs.\
 ⚡️ &nbsp;Fun Fact: I ❤️ 🐺s && games.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
