@@ -1,17 +1,11 @@
 ![Header](./assets/OlamideSimon.png)
 <br />
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=OlamideSimon&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-</p>
-
-### **This is where I drop the building blocks for my mansion**
-🔭 &nbsp; I’m working on something cool at the moment.\
-🌱 &nbsp; Currently playing around with NestJs.\
+🔭 &nbsp; I’m working on something cool at the moment using React Native.\
+🌱 &nbsp; Currently playing around with Machine Learning.\
 💬 &nbsp; You can ask me about anything related to React, javascript, typescript, or nodeJs.\
-⚡️ &nbsp;Fun Fact: I ❤️ 🐺s && games.
+⚡️ &nbsp;Fun Fact: I love wolves and of course, games.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 &nbsp;
 
 ### 🛠 &nbsp;Tech Stack
@@ -46,5 +40,5 @@
 <br />
 <br />
 <p align="center">
-    <img src='https://github-readme-stats.vercel.app/api/top-langs?username=OlamideSimon&show_icons=true&bg_color=50,000428,004e92&title_color=ffffff&text_color=ffffff&layout=compact&langs_count=6&hide_border=true&hide=C&border_radius=40' alt="Olamide's stats" />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs?username=OlamideSimon&show_icons=true&bg_color=50,000428,004e92&title_color=ffffff&text_color=ffffff&layout=compact&langs_count=6&hide_border=true&hide=C&border_radius=10' alt="Olamide's stats" />
 </p>
