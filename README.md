@@ -73,4 +73,4 @@ I'm a self-taught fullstack/mobile developer from Nigeria 🇳🇬.
 ---
 
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=OlamideSimon&show_icons=true&theme=holi" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=OlamideSimon&theme=github-dark-blue&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=OlamideSimon&theme=github-dark-blue" />
