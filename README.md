@@ -32,7 +32,7 @@ I'm a self-taught fullstack/mobile developer from Nigeria 🇳🇬.
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
+<div style="display: flex;">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -90,4 +90,4 @@ I'm a self-taught fullstack/mobile developer from Nigeria 🇳🇬.
 
 ---
 
-![Olamide's github stats](https://github-readme-stats.vercel.app/api?username=OlamideSimon&show_icons=true&theme=shadow_green)
+![Olamide's github stats](https://github-readme-stats.vercel.app/api?username=OlamideSimon&show_icons=true&theme=holi)
