@@ -89,15 +89,14 @@ I'm a self-taught engineer who works across the whole stack, from the API and qu
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub Stats
+## Contribution Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OlamideSimon&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlamideSimon&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=OlamideSimon&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
-
-<sub>Most of my work lives in private repositories, so these numbers show only part of it.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OlamideSimon/OlamideSimon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OlamideSimon/OlamideSimon/output/github-snake.svg" />
+  <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/OlamideSimon/OlamideSimon/output/github-snake.svg" />
+</picture>
 
 </div>
