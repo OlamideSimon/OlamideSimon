@@ -34,7 +34,7 @@ I'm a self-taught engineer who works across the whole stack, from the API and qu
 | **Offline-first organiser** | A private, account-free mobile app for planning, records and reminders, with all data kept on the device | Expo, React Native, SQLite, Drizzle |
 | **[Ekidor Global Mart](https://ekidor-global-mart-theta.vercel.app)** | E-commerce store with a CMS, customer accounts and cost and profit tracking | Next.js, Supabase, Sanity, Three.js |
 
-**Client websites:** [EUN VIP Eldercare & Health Spa](https://eunvip-eldercareandhealthspa.com) · After6 Nature's Place · EUN Afro Atlantic-Pacific · Atinuke Olukunle, all with animated, accessible, SEO-ready designs
+**Client websites:** [EUN VIP Eldercare & Health Spa](https://eunvip-eldercareandhealthspa.com) · [After6 Nature's Place](https://after6-nature-1.onrender.com) · [EUN Afro Atlantic-Pacific](https://eun-afro-atlantic-pacific.org) · [Atinuke Olukunle](https://atinuke-olukunle.onrender.com), all with animated, accessible, SEO-ready designs
 
 ## Tech Stack
 
