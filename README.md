@@ -16,7 +16,7 @@ I build production web and mobile apps with React, React Native and NestJS, in l
 
 ## About Me
 
-I'm a self-taught engineer who works across the whole stack, from the API and queues to the last pixel on a phone screen. I care about the details that make software trustworthy: correct money handling, secure auth, accessible UI and honest data.
+I work across the whole stack, from the API and queues to the last pixel on a phone screen. I care about the details that make software trustworthy: correct money handling, secure auth, accessible UI and honest data.
 
 - 💼 **Now:** building the web app at **Altera AI**, where attorneys upload case files and generate, review and refine legal drafts
 - 📱 **Also building:** mobile apps and APIs for fintech, compliance and consumer products
